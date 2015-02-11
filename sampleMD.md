@@ -81,9 +81,8 @@ Notice again how text always lines up on 4-space indents (including
 that last line which continues item 3 above).
 
 Here's a link to [a website](http://www.pstcc.edu), to a [local
-doc](readme.md). Here's a footnote [^1].
+doc](readme.md).
 
-[^1]: I am a FOOTNOTE!!!!!!!.
 
 Tables can look like this:
 
